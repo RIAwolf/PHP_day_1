@@ -3,6 +3,7 @@
 * Kiekvienas uždavinys naujame faile;
 * Uždavinių pasirinkimas turi būti padarytas atskirame fragmente kurį
 reikia įtraukti į kiekvieno uždavinio pradžią (su inlclude)
+# Užduotys
 1. Parašyti kodą kuris gauna per parametrus vartotojo vardą ir jį atspausdina penkis
 kartus
 2. Parašyti kodą kuris gauna žodį per parametrus atspausdintų kiek simbolių yra
@@ -31,5 +32,5 @@ vidurkis = litrai * 100 / atstumo
 Kintamuosius iš $_REQUEST pasiimti vienoje funkcijoje, o skaičiavimą atlikti
 kitoje. ABi funkcijas parašyti be parametrų ir pasidėti reikšmes į globalius
 kintamuosius, naudoti $_GLOBAL
-10.Pasinaudojant forma parašyti skaičiuotuvą kuris atlieką dviejų skaičių sumą,
+10. Pasinaudojant forma parašyti skaičiuotuvą kuris atlieką dviejų skaičių sumą,
 skirtumą, sandaugą, dalybą.

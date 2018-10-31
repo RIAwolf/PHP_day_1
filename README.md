@@ -3,6 +3,7 @@
 * Kiekvienas uždavinys naujame faile;
 * Uždavinių pasirinkimas turi būti padarytas atskirame fragmente kurį
 reikia įtraukti į kiekvieno uždavinio pradžią (su inlclude)
+# Užduotys
 1. Parašyti kodą kuris gauna per parametrus vartotojo vardą ir jį atspausdina penkis
 kartus
 2. Parašyti kodą kuris gauna žodį per parametrus atspausdintų kiek simbolių yra
